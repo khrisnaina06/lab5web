@@ -1,4 +1,4 @@
-# PRAKTIKUM 4 (PHP Modular)
+# PRAKTIKUM 5 (PHP OOP)
 
 **_Nama: Muhammad Khrisna_** <br/>
 **_Nim : 312110177_** <br/>
@@ -26,46 +26,39 @@
 
 <br/>
 
+
 ## **Directory Tree**
 ```bash
 Lab3Web
-│ 
+│   
 ├──.htaccess
 ├──index.php
+├──lab5web.sql
 ├──README.md
-│
-├──assets
-│   │
-│   ├──images
-│   │   ├──laptop.jpg
-│   │   ├──oppo.jpg
-│   │   ├──samsung.jpg
-│   │   └──xiaomi.jpg
-│   │
-│   └──sql
-│       └──latihan1.sql
-│
-├──includes
-│   ├──footer.php
-│   └──header.php
-│
-├──requires
-│   ├──connection.php
-│   └──function.php
-│
-├──screenshot
-│   ├──About.JPG
-│   ├──Contact.JPG
-│   ├──Create.JPG
-│   ├──Home.JPG
-│   └──Update.JPG
-│
-└──views
-    ├──404.php
-    ├──about.php
-    ├──contact.php
-    ├──create.php
-    ├──delete.php
-    ├──home.php
-    └──update.php
+├──route.php
+│   
+├───includes
+│    ├──form_insert.php
+│    └──form_update.php
+│       
+├───requires
+│    ├──config.php
+│    ├──database.php
+│    └──form.php
+│       
+├───screenshot
+│    ├──About.png
+│    ├──Contact.png
+│    ├──Create.png
+│    ├──Home.png
+│    └──Update.png
+│       
+└───views
+     ├──about.php
+     ├──contact.php
+     ├──create.php
+     ├──delete.php
+     ├──error.php
+     ├──home.php
+     └──update.php
 ```

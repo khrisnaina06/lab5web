@@ -7,7 +7,7 @@
 <br/><br/>
 
 ## **Home**
-<img src="home.png">
+<img src="Home.png">
 
 <br/>
 

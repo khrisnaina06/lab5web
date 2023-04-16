@@ -1,68 +1,71 @@
-# PROJECT PRAKTIKUM 5 (PHP OOP)
+# PRAKTIKUM 4 (PHP Modular)
 
-**_Nama: Muhammad Akbar_** <br/>
-**_Nim : 312110483_** <br/>
-**_Kelas : TI.21.A3_** <br/>
+**_Nama: Muhammad Khrisna_** <br/>
+**_Nim : 312110177_** <br/>
+**_Kelas : TI.21.A2_** <br/>
 
 <br/><br/>
 
 ## **Home**
-<img src="screenshot/Home.png">
-
-<br/>
-
-## **Create**
-<img src="screenshot/Create.png">
+<img src="home.png">
 
 <br/>
 
 ## **Update**
-<img src="screenshot/Update.png">
+<img src="Update.png">
 
 <br/>
 
 ## **Contact**
-<img src="screenshot/Contact.png">
+<img src="Contact.png">
 
 <br/>
 
 ## **About**
-<img src="screenshot/About.png">
+<img src="About.png">
 
 <br/>
 
 ## **Directory Tree**
 ```bash
 Lab3Web
-│   
+│ 
 ├──.htaccess
 ├──index.php
-├──lab5web.sql
 ├──README.md
-├──route.php
-│   
-├───includes
-│    ├──form_insert.php
-│    └──form_update.php
-│       
-├───requires
-│    ├──config.php
-│    ├──database.php
-│    └──form.php
-│       
-├───screenshot
-│    ├──About.png
-│    ├──Contact.png
-│    ├──Create.png
-│    ├──Home.png
-│    └──Update.png
-│       
-└───views
-     ├──about.php
-     ├──contact.php
-     ├──create.php
-     ├──delete.php
-     ├──error.php
-     ├──home.php
-     └──update.php
+│
+├──assets
+│   │
+│   ├──images
+│   │   ├──laptop.jpg
+│   │   ├──oppo.jpg
+│   │   ├──samsung.jpg
+│   │   └──xiaomi.jpg
+│   │
+│   └──sql
+│       └──latihan1.sql
+│
+├──includes
+│   ├──footer.php
+│   └──header.php
+│
+├──requires
+│   ├──connection.php
+│   └──function.php
+│
+├──screenshot
+│   ├──About.JPG
+│   ├──Contact.JPG
+│   ├──Create.JPG
+│   ├──Home.JPG
+│   └──Update.JPG
+│
+└──views
+    ├──404.php
+    ├──about.php
+    ├──contact.php
+    ├──create.php
+    ├──delete.php
+    ├──home.php
+    └──update.php
 ```
